@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+infra/.venv/
+
+# CDK artifacts
+infra/cdk.out/
+
+# OS files
+.DS_Store
